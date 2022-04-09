@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mateusferreira0704@gmail.com
+	name = Mateus Ferreira
